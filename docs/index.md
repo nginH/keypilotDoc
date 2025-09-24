@@ -113,6 +113,8 @@ curl --location 'http://127.0.0.1:5001/psyched-span-426722-q0/us-central1/dev/ap
 <summary>Response Example</summary>
 
 ```json
+{
+
     "status": "success",
     "message": "Data fetched successfully",
     "timestamp": "2025-09-24T16:13:32.961Z",
@@ -1135,6 +1137,8 @@ curl --location 'http://127.0.0.1:5001/psyched-span-426722-q0/us-central1/dev/ap
     ],
     "isCached": false
 }
+
+
 ```
 
 </details>
